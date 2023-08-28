@@ -1,6 +1,5 @@
 # Distracted driver detection
 
-![image](https://github.com/pengp5781/Deep-Learning/assets/111671117/23e2b5fd-3a25-41e8-a3cf-89f3021efa09)
 
 ## Introduction
 According to the CDC motor vehicle safety division, one in five accidents is caused by a distracted driver. Sadly, this translates to 425,000 people injured and 3,000 people killed by distracted driving every year. 
